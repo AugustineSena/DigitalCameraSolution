@@ -1,0 +1,16 @@
+E:\Lectures\Semester - 5 & 6\Semester 6\Soft Computing\KB3\DigitalCameraSolutionD'Fuzzy\DigitalCameraSolutionDFuzzy\DigitalCameraSolutionDFuzzy\bin\Debug\DigitalCameraSolutionDFuzzy.exe.config
+E:\Lectures\Semester - 5 & 6\Semester 6\Soft Computing\KB3\DigitalCameraSolutionD'Fuzzy\DigitalCameraSolutionDFuzzy\DigitalCameraSolutionDFuzzy\bin\Debug\DigitalCameraSolutionDFuzzy.exe
+E:\Lectures\Semester - 5 & 6\Semester 6\Soft Computing\KB3\DigitalCameraSolutionD'Fuzzy\DigitalCameraSolutionDFuzzy\DigitalCameraSolutionDFuzzy\bin\Debug\DigitalCameraSolutionDFuzzy.pdb
+E:\Lectures\Semester - 5 & 6\Semester 6\Soft Computing\KB3\DigitalCameraSolutionD'Fuzzy\DigitalCameraSolutionDFuzzy\DigitalCameraSolutionDFuzzy\bin\Debug\MetroFramework.dll
+E:\Lectures\Semester - 5 & 6\Semester 6\Soft Computing\KB3\DigitalCameraSolutionD'Fuzzy\DigitalCameraSolutionDFuzzy\DigitalCameraSolutionDFuzzy\bin\Debug\MySql.Data.dll
+E:\Lectures\Semester - 5 & 6\Semester 6\Soft Computing\KB3\DigitalCameraSolutionD'Fuzzy\DigitalCameraSolutionDFuzzy\DigitalCameraSolutionDFuzzy\bin\Debug\MySql.Data.Entity.dll
+E:\Lectures\Semester - 5 & 6\Semester 6\Soft Computing\KB3\DigitalCameraSolutionD'Fuzzy\DigitalCameraSolutionDFuzzy\DigitalCameraSolutionDFuzzy\bin\Debug\MySql.Data.xml
+E:\Lectures\Semester - 5 & 6\Semester 6\Soft Computing\KB3\DigitalCameraSolutionD'Fuzzy\DigitalCameraSolutionDFuzzy\DigitalCameraSolutionDFuzzy\obj\Debug\DigitalCameraSolutionDFuzzy.csprojResolveAssemblyReference.cache
+E:\Lectures\Semester - 5 & 6\Semester 6\Soft Computing\KB3\DigitalCameraSolutionD'Fuzzy\DigitalCameraSolutionDFuzzy\DigitalCameraSolutionDFuzzy\obj\Debug\DigitalCameraSolutionDFuzzy.Homepage.resources
+E:\Lectures\Semester - 5 & 6\Semester 6\Soft Computing\KB3\DigitalCameraSolutionD'Fuzzy\DigitalCameraSolutionDFuzzy\DigitalCameraSolutionDFuzzy\obj\Debug\DigitalCameraSolutionDFuzzy.Properties.Resources.resources
+E:\Lectures\Semester - 5 & 6\Semester 6\Soft Computing\KB3\DigitalCameraSolutionD'Fuzzy\DigitalCameraSolutionDFuzzy\DigitalCameraSolutionDFuzzy\obj\Debug\DigitalCameraSolutionDFuzzy.csproj.GenerateResource.Cache
+E:\Lectures\Semester - 5 & 6\Semester 6\Soft Computing\KB3\DigitalCameraSolutionD'Fuzzy\DigitalCameraSolutionDFuzzy\DigitalCameraSolutionDFuzzy\obj\Debug\DigitalCameraSolutionDFuzzy.exe
+E:\Lectures\Semester - 5 & 6\Semester 6\Soft Computing\KB3\DigitalCameraSolutionD'Fuzzy\DigitalCameraSolutionDFuzzy\DigitalCameraSolutionDFuzzy\obj\Debug\DigitalCameraSolutionDFuzzy.pdb
+E:\Lectures\DigitalCameraSolutionDFuzzy\DigitalCameraSolutionDFuzzy\bin\Debug\DigitalCameraSolutionDFuzzy.exe.config
+E:\Lectures\DigitalCameraSolutionDFuzzy\DigitalCameraSolutionDFuzzy\obj\Debug\DigitalCameraSolutionDFuzzy.exe
+E:\Lectures\DigitalCameraSolutionDFuzzy\DigitalCameraSolutionDFuzzy\obj\Debug\DigitalCameraSolutionDFuzzy.pdb
